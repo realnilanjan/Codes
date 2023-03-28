@@ -3,7 +3,7 @@
 #include <FastLED.h>
 #include <ESP8266WiFi.h>
 #include <WiFiUDP.h>
-#include "reactive_common.h"
+#include "includes/reactive_common.h"
 
 #define LED_PIN 2
 #define NUM_LEDS 144
